@@ -2,3 +2,5 @@
 
 ## Author:
 Yibin Long
+
+Solving merge conflicts is easy!
